@@ -1,6 +1,6 @@
 <?php include 'koneksi.php'; ?>
 <!DOCTYPE html>
-<html lang="id">
+<!-- <html lang="id"> -->
 <head>
 	<?php include 'menu/head.php'; ?>
 </head>
